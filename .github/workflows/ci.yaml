@@ -13,7 +13,7 @@ on:
       - ".github/workflows/rw_uv_run_test.yaml"
       - ".github/workflows/rw_uv_run_test_with_multi_py_versions.yaml"
 #     For source code and test
-      - "src/**/*.py"
+      - "cli_meta/**/*.py"
       - "!**/__pkg_info__.py"
       - "test/**/*.py"
 #     For shell script for CI
@@ -39,7 +39,7 @@ on:
       - ".github/workflows/rw_uv_run_test.yaml"
       - "rw_uv_run_test_with_multi_py_versions.yaml"
 #     For source code and test
-      - "src/**/*.py"
+      - "cli_meta/**/*.py"
       - "!**/__pkg_info__.py"
       - "test/**/*.py"
 #     For shell script for CI

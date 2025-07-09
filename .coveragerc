@@ -1,11 +1,11 @@
 [run]
 parallel = True
 relative_files = True
-include=./src
+include=./cli_meta
 
 omit =
 #    */__init__.py
-    ./src/__main__.py
+    ./cli_meta/__main__.py
 
 
 [report]
