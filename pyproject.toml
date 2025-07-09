@@ -3,11 +3,11 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "<your lib name>"
+name = "cli-meta"
 version = "0.0.0"
-description = "Your lib description"
-authors = [{ name = "<your GitHub name>", email = "<your email address>" }]
-requires-python = ">=3.12,<4.0"
+description = "🔗 An object-oriented base library for command line tool by 🐍 Python."
+authors = [{ name = "Chisanan232", email = "chi10211201@cycu.org.tw" }]
+requires-python = ">=3.10,<4.0"
 readme = "README.md"
 license = { text = "MIT" }
 keywords = []
@@ -19,6 +19,8 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
@@ -26,8 +28,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/<your GitHub name>/<new repo>"
-Repository = "https://github.com/<your GitHub name>/<new repo>"
+Homepage = "https://github.com/Chisanan232/cli-meta"
+Repository = "https://github.com/Chisanan232/cli-meta"
 
 [dependency-groups]
 dev = [
