@@ -1,3 +1,17 @@
+> ## 🗄️ Archived — 2026-09-24
+>
+> This repository is **archived and read-only**.
+>
+> It was intended to become an object-oriented base library for building command
+> line tools in Python, but it never progressed past the project template — the
+> README below was never filled in and describes no real functionality.
+>
+> No package was ever published to PyPI from this repository, and no successor
+> project is being maintained in its place. Open dependency-update pull requests
+> were closed unmerged when the repository was archived.
+
+---
+
 # Your lib name
 
 ## Overview
